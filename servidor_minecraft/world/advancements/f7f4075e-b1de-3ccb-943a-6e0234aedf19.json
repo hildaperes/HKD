@@ -354,9 +354,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_counter": {
+    "criteria": {
+      "has_spruce_counter": "2025-08-01 23:22:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-08-01 23:17:32 +0000"
+    },
+    "done": true
+  },
+  "wetland_whimsy:recipes/building_blocks/bald_cypress_slab": {
+    "criteria": {
+      "has_bald_cypress_planks": "2025-08-01 23:18:01 +0000"
     },
     "done": true
   },
@@ -372,6 +384,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/limestone_brick_slab_from_limestone_bricks_stonecutting": {
+    "criteria": {
+      "has_limestone_bricks": "2025-08-01 23:20:10 +0000"
+    },
+    "done": true
+  },
+  "wetland_whimsy:recipes/decorations/bald_cypress_sign": {
+    "criteria": {
+      "has_bald_cypress_planks": "2025-08-01 23:18:01 +0000"
+    },
+    "done": true
+  },
   "wetland_whimsy:recipes/building_blocks/bald_cypress_wood": {
     "criteria": {
       "has_bald_cypress_log": "2025-08-01 23:16:10 +0000"
@@ -381,6 +405,12 @@
   "backpacked:recipes/decorations/cherry_backpack_shelf": {
     "criteria": {
       "has_stick": "2025-08-01 23:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-08-01 23:24:27 +0000"
     },
     "done": true
   },
@@ -396,9 +426,81 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-08-01 23:22:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_piston": {
+    "criteria": {
+      "has_redstone": "2025-08-01 23:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-08-01 23:20:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-08-01 23:18:01 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/dark_oak_drawer": {
     "criteria": {
       "has_planks": "2025-08-01 23:17:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_shelf": {
+    "criteria": {
+      "has_spruce_shelf": "2025-08-01 23:22:32 +0000"
+    },
+    "done": true
+  },
+  "wetland_whimsy:recipes/building_blocks/limestone_brick_slab": {
+    "criteria": {
+      "has_limestone_bricks": "2025-08-01 23:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-01 23:24:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:witch": "2025-08-01 23:24:25 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/redstone/skyroot_note_block": {
+    "criteria": {
+      "has_redstone": "2025-08-01 23:24:27 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_table": {
+    "criteria": {
+      "has_planks": "2025-08-01 23:22:32 +0000"
+    },
+    "done": true
+  },
+  "wetland_whimsy:recipes/decorations/bald_cypress_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-08-01 23:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/workbench/botanist_workbench": {
+    "criteria": {
+      "has_botanist_workbench": "2025-08-01 23:18:04 +0000"
     },
     "done": true
   },
@@ -408,9 +510,69 @@
     },
     "done": true
   },
+  "aether:recipes/tools/wooden_pickaxe_repairing": {
+    "criteria": {
+      "has_wooden_pickaxe": "2025-08-01 23:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-08-01 23:24:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/salmon_trophy": {
+    "criteria": {
+      "has_salmon_trophy": "2025-08-01 23:18:01 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_dining_bench": {
+    "criteria": {
+      "has_spruce_dining_bench": "2025-08-01 23:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-08-01 23:22:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/silverfish_trophy": {
+    "criteria": {
+      "has_silverfish_trophy": "2025-08-01 23:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/workbench/carpenters_table": {
+    "criteria": {
+      "has_carpenters_table": "2025-08-01 23:18:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-08-01 23:24:27 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_shelf": {
+    "criteria": {
+      "has_planks": "2025-08-01 23:22:32 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/acacia_drawer": {
     "criteria": {
       "has_planks": "2025-08-01 23:17:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bear_trophy": {
+    "criteria": {
+      "has_bear_trophy": "2025-08-01 23:18:01 +0000"
     },
     "done": true
   },
@@ -420,9 +582,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-08-01 23:22:32 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/spruce_drawer": {
     "criteria": {
       "has_planks": "2025-08-01 23:17:32 +0000"
+    },
+    "done": true
+  },
+  "wetland_whimsy:recipes/building_blocks/limestone_brick_stairs": {
+    "criteria": {
+      "has_limestone_bricks": "2025-08-01 23:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/limestone_pillar_from_limestone_bricks_stonecutting": {
+    "criteria": {
+      "has_limestone_bricks": "2025-08-01 23:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-01 23:22:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_pillar_trim": {
+    "criteria": {
+      "has_spruce_pillar_trim": "2025-08-01 23:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/workbench/glassblower": {
+    "criteria": {
+      "has_glassblower": "2025-08-01 23:18:04 +0000"
     },
     "done": true
   },
@@ -444,6 +642,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/goat_trophy": {
+    "criteria": {
+      "has_goat_trophy": "2025-08-01 23:18:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-08-01 23:17:32 +0000"
@@ -462,9 +666,27 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-08-01 23:24:25 +0000"
+    },
+    "done": true
+  },
   "backpacked:recipes/decorations/crimson_backpack_shelf": {
     "criteria": {
       "has_stick": "2025-08-01 23:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-08-01 23:24:27 +0000"
+    },
+    "done": true
+  },
+  "wetland_whimsy:recipes/building_blocks/bald_cypress_door": {
+    "criteria": {
+      "has_bald_cypress_planks": "2025-08-01 23:18:01 +0000"
     },
     "done": true
   },
@@ -474,9 +696,93 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-08-01 23:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-08-01 23:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/limestone_brick_stairs_from_limestone_bricks_stonecutting": {
+    "criteria": {
+      "has_limestone_bricks": "2025-08-01 23:20:10 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_corner_trim": {
+    "criteria": {
+      "has_spruce_corner_trim": "2025-08-01 23:22:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blaze_trophy": {
+    "criteria": {
+      "has_blaze_trophy": "2025-08-01 23:18:01 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_desk": {
+    "criteria": {
+      "has_spruce_desk": "2025-08-01 23:22:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wolf_trophy": {
+    "criteria": {
+      "has_wolf_trophy": "2025-08-01 23:18:01 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "brewingstand": "2025-08-01 23:25:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/workbench/tinkering_table": {
+    "criteria": {
+      "has_tinkering_table": "2025-08-01 23:18:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2025-08-01 23:17:32 +0000"
+    },
+    "done": true
+  },
+  "wetland_whimsy:recipes/building_blocks/bald_cypress_stairs": {
+    "criteria": {
+      "has_bald_cypress_planks": "2025-08-01 23:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-08-01 23:24:27 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "brewingstand": "2025-08-01 23:25:00 +0000"
+    },
+    "done": false
+  },
+  "adventuredungeons:adventuredungeons/root": {
+    "criteria": {
+      "killed_something": "2025-08-01 23:24:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-08-01 23:22:32 +0000"
     },
     "done": true
   },
@@ -486,15 +792,147 @@
     },
     "done": true
   },
+  "wetland_whimsy:recipes/misc/bald_cypress_boat": {
+    "criteria": {
+      "has_bald_cypress_planks": "2025-08-01 23:18:01 +0000"
+    },
+    "done": true
+  },
   "backpacked:recipes/decorations/birch_backpack_shelf": {
     "criteria": {
       "has_stick": "2025-08-01 23:17:32 +0000"
     },
     "done": true
   },
+  "wetland_whimsy:recipes/building_blocks/limestone_brick_wall": {
+    "criteria": {
+      "has_limestone_bricks": "2025-08-01 23:20:10 +0000"
+    },
+    "done": true
+  },
+  "wetland_whimsy:recipes/building_blocks/bald_cypress_trapdoor": {
+    "criteria": {
+      "has_bald_cypress_planks": "2025-08-01 23:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-08-01 23:20:51 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/warped_drawer": {
     "criteria": {
       "has_planks": "2025-08-01 23:17:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fox_trophy": {
+    "criteria": {
+      "has_fox_trophy": "2025-08-01 23:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-08-01 23:24:27 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/chiller": {
+    "criteria": {
+      "has_spruce": "2025-08-01 23:20:51 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_couch": {
+    "criteria": {
+      "has_spruce_couch": "2025-08-01 23:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/workbench/loom_table": {
+    "criteria": {
+      "has_loom_table": "2025-08-01 23:18:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/workbench/mason_table": {
+    "criteria": {
+      "has_mason_table": "2025-08-01 23:18:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-08-01 23:22:32 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "crafting_table": "2025-08-01 23:18:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/tropical_fish_trophy": {
+    "criteria": {
+      "has_tropical_fish_trophy": "2025-08-01 23:18:01 +0000"
+    },
+    "done": true
+  },
+  "wetland_whimsy:recipes/building_blocks/bald_cypress_fence": {
+    "criteria": {
+      "has_bald_cypress_planks": "2025-08-01 23:18:01 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spider_trophy": {
+    "criteria": {
+      "has_spider_trophy": "2025-08-01 23:18:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/wooden_axe_repairing": {
+    "criteria": {
+      "has_wooden_axe": "2025-08-01 23:20:40 +0000"
+    },
+    "done": true
+  },
+  "wetland_whimsy:wetland_ruins": {
+    "criteria": {
+      "wetland_ruins": "2025-08-01 23:19:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-08-01 23:20:51 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_nightstand": {
+    "criteria": {
+      "has_spruce_nightstand": "2025-08-01 23:22:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/pufferfish_trophy": {
+    "criteria": {
+      "has_pufferfish_trophy": "2025-08-01 23:18:01 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_bench": {
+    "criteria": {
+      "has_spruce_bench": "2025-08-01 23:22:32 +0000"
+    },
+    "done": true
+  },
+  "wetland_whimsy:recipes/redstone/bald_cypress_pressure_plate": {
+    "criteria": {
+      "has_bald_cypress_planks": "2025-08-01 23:18:01 +0000"
     },
     "done": true
   },
@@ -510,6 +948,18 @@
     },
     "done": true
   },
+  "wetland_whimsy:recipes/building_blocks/bald_cypress_fence_gate": {
+    "criteria": {
+      "has_bald_cypress_planks": "2025-08-01 23:18:01 +0000"
+    },
+    "done": true
+  },
+  "wetland_whimsy:recipes/misc/bald_cypress_chest_boat": {
+    "criteria": {
+      "has_bald_cypress_planks": "2025-08-01 23:18:01 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/crimson_drawer": {
     "criteria": {
       "has_planks": "2025-08-01 23:17:32 +0000"
@@ -519,6 +969,42 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-08-01 23:17:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_drawer": {
+    "criteria": {
+      "has_spruce_drawer": "2025-08-01 23:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-08-01 23:24:27 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-08-01 23:20:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-01 23:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-08-01 23:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-01 23:22:32 +0000"
     },
     "done": true
   },
@@ -534,9 +1020,78 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/workbench/alchemy_bench": {
+    "criteria": {
+      "has_alchemy_bench": "2025-08-01 23:18:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_fancy_bed": {
+    "criteria": {
+      "has_spruce_fancy_bed": "2025-08-01 23:22:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/spruce_log/hollow_spruce_log": {
+    "criteria": {
+      "has_block": "2025-08-01 23:20:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:witch": "2025-08-01 23:24:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2025-08-01 23:26:53 +0000",
+      "minecraft:beach": "2025-08-01 23:26:40 +0000",
+      "minecraft:taiga": "2025-08-01 23:20:47 +0000",
+      "minecraft:swamp": "2025-08-01 23:22:16 +0000"
+    },
+    "done": false
+  },
+  "handcrafted:recipes/misc/spruce_chair": {
+    "criteria": {
+      "has_spruce_chair": "2025-08-01 23:22:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_cupboard": {
+    "criteria": {
+      "has_spruce_cupboard": "2025-08-01 23:22:32 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
       "has_stick": "2025-08-01 23:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-08-01 23:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/limestone_brick_wall_from_limestone_bricks_stonecutting": {
+    "criteria": {
+      "has_limestone_bricks": "2025-08-01 23:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-01 23:22:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/skeleton_horse_trophy": {
+    "criteria": {
+      "has_skeleton_horse_trophy": "2025-08-01 23:18:01 +0000"
     },
     "done": true
   },
@@ -546,9 +1101,45 @@
     },
     "done": true
   },
+  "another_furniture:recipes/spruce_chair": {
+    "criteria": {
+      "has_planks": "2025-08-01 23:22:32 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/birch_drawer": {
     "criteria": {
       "has_planks": "2025-08-01 23:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-08-01 23:18:04 +0000"
+    },
+    "done": true
+  },
+  "wetland_whimsy:recipes/building_blocks/bald_cypress_button": {
+    "criteria": {
+      "has_bald_cypress_planks": "2025-08-01 23:18:01 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wither_skeleton_trophy": {
+    "criteria": {
+      "has_wither_skeleton_trophy": "2025-08-01 23:18:01 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_side_table": {
+    "criteria": {
+      "has_spruce_side_table": "2025-08-01 23:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-08-01 23:24:27 +0000"
     },
     "done": true
   },

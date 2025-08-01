@@ -1678,3 +1678,18 @@
 [01Aug2025 23:14:34.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
 [01Aug2025 23:17:57.887] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 3 chunks for dimension 'overworld' took 0 milliseconds
 [01Aug2025 23:19:32.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Feriziul has made the advancement [Old-School]
+[01Aug2025 23:22:57.831] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 27 chunks for dimension 'overworld' took 1 milliseconds
+[01Aug2025 23:24:25.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Feriziul has made the advancement [Monster Hunter]
+[01Aug2025 23:24:48.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Feriziul has made the advancement [Sweet Dreams]
+[01Aug2025 23:25:00.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Feriziul has made the advancement [Let's Get To Work]
+[01Aug2025 23:26:39.529] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Aug2025 23:26:39.530] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Aug2025 23:26:39.531] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Aug2025 23:26:39.593] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Aug2025 23:26:39.594] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Aug2025 23:26:39.594] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Aug2025 23:26:39.595] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Aug2025 23:26:39.595] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Aug2025 23:26:40.008] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2659ms or 53 ticks behind
+[01Aug2025 23:28:00.476] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 45 chunks for dimension 'overworld' took 0 milliseconds
+[01Aug2025 23:31:26.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Feriziul: hola
