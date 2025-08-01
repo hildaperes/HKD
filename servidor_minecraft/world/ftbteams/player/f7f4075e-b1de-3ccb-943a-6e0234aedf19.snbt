@@ -1,0 +1,17 @@
+{
+	id: "f7f4075e-b1de-3ccb-943a-6e0234aedf19"
+	type: "player"
+	player_name: "Feriziul"
+	ranks: {
+		f7f4075e-b1de-3ccb-943a-6e0234aedf19: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Feriziul"
+		"ftbteams:description": ""
+		"ftbteams:color": "#9159FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
