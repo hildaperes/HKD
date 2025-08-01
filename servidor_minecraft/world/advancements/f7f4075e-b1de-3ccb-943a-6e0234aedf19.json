@@ -498,6 +498,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-08-01 23:28:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/workbench/botanist_workbench": {
     "criteria": {
       "has_botanist_workbench": "2025-08-01 23:18:04 +0000"
@@ -537,6 +543,12 @@
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-08-01 23:22:32 +0000"
+    },
+    "done": true
+  },
+  "wetland_whimsy:recipes/food/pennywort_salad": {
+    "criteria": {
+      "has_pennywort": "2025-08-01 23:28:00 +0000"
     },
     "done": true
   },
