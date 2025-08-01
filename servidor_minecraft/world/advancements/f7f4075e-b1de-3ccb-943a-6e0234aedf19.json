@@ -354,6 +354,12 @@
     },
     "done": true
   },
+  "oceansdelight:recipes/food/stuffed_cod": {
+    "criteria": {
+      "has_kelp": "2025-08-01 23:41:04 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_counter": {
     "criteria": {
       "has_spruce_counter": "2025-08-01 23:22:32 +0000"
@@ -372,9 +378,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/sandstone_pillar_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-08-01 23:44:23 +0000"
+    },
+    "done": true
+  },
   "wetland_whimsy:recipes/building_blocks/bald_cypress_planks": {
     "criteria": {
       "has_log": "2025-08-01 23:16:10 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_brick_stairs_from_sandstone_or_sandstone_bricks_stonecutting": {
+    "criteria": {
+      "has_sandstone_or_sandstone_bricks": "2025-08-01 23:44:23 +0000"
     },
     "done": true
   },
@@ -384,9 +402,27 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/sakura_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_sandstone_bricks_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-08-01 23:44:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/limestone_brick_slab_from_limestone_bricks_stonecutting": {
     "criteria": {
       "has_limestone_bricks": "2025-08-01 23:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-01 23:44:08 +0000"
     },
     "done": true
   },
@@ -396,9 +432,39 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/sandstone_tile_wall_from_sandstone_or_sandstone_tiles_stonecutting": {
+    "criteria": {
+      "has_sandstone_or_sandstone_tiles": "2025-08-01 23:44:23 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
+    },
+    "done": true
+  },
   "wetland_whimsy:recipes/building_blocks/bald_cypress_wood": {
     "criteria": {
       "has_bald_cypress_log": "2025-08-01 23:16:10 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/white_sand": {
+    "criteria": {
+      "has_sand": "2025-08-01 23:44:08 +0000"
     },
     "done": true
   },
@@ -408,9 +474,33 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-08-01 23:44:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 23:44:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-08-01 23:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-01 23:44:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-08-01 23:44:23 +0000"
     },
     "done": true
   },
@@ -420,15 +510,51 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
+    },
+    "done": true
+  },
   "backpacked:recipes/decorations/oak_backpack_shelf": {
     "criteria": {
       "has_stick": "2025-08-01 23:17:32 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-01 23:44:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-08-01 23:44:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_table": {
     "criteria": {
       "has_spruce_table": "2025-08-01 23:22:32 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/rocky_stone": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 23:44:29 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_shingle_stairs_from_sandstone_or_sandstone_shingles_stonecutting": {
+    "criteria": {
+      "has_sandstone_or_sandstone_shingles": "2025-08-01 23:44:23 +0000"
     },
     "done": true
   },
@@ -450,9 +576,21 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/ebony_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/dark_oak_drawer": {
     "criteria": {
       "has_planks": "2025-08-01 23:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
     },
     "done": true
   },
@@ -474,11 +612,35 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 23:44:29 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_paver_slab_from_sandstone_or_sandstone_pavers_stonecutting": {
+    "criteria": {
+      "has_sandstone_or_sandstone_pavers": "2025-08-01 23:44:23 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_shingles_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-08-01 23:44:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:witch": "2025-08-01 23:24:25 +0000"
     },
     "done": false
+  },
+  "stoneworks:recipes/building_blocks/sandstone_tile_slab_from_sandstone_or_sandstone_tiles_stonecutting": {
+    "criteria": {
+      "has_sandstone_or_sandstone_tiles": "2025-08-01 23:44:23 +0000"
+    },
+    "done": true
   },
   "aether:recipes/redstone/skyroot_note_block": {
     "criteria": {
@@ -498,9 +660,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_corner_trim": {
+    "criteria": {
+      "has_sandstone_corner_trim": "2025-08-01 23:44:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/packed_mud": {
     "criteria": {
       "has_mud": "2025-08-01 23:28:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 23:44:29 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_plate_wall_from_sandstone_or_sandstone_plates_stonecutting": {
+    "criteria": {
+      "has_sandstone_or_sandstone_plates": "2025-08-01 23:44:23 +0000"
     },
     "done": true
   },
@@ -516,15 +702,39 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_sandstone_brick_slab_from_sandstone_or_mossy_sandstone_bricks_stonecutting": {
+    "criteria": {
+      "has_sandstone_or_mossy_sandstone_bricks": "2025-08-01 23:44:23 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/wooden_pickaxe_repairing": {
     "criteria": {
       "has_wooden_pickaxe": "2025-08-01 23:20:05 +0000"
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/mining_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2025-08-01 23:24:27 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_bricks_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-08-01 23:44:23 +0000"
     },
     "done": true
   },
@@ -546,9 +756,27 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/sandstone_plate_stairs_from_sandstone_or_sandstone_plates_stonecutting": {
+    "criteria": {
+      "has_sandstone_or_sandstone_plates": "2025-08-01 23:44:23 +0000"
+    },
+    "done": true
+  },
   "wetland_whimsy:recipes/food/pennywort_salad": {
     "criteria": {
       "has_pennywort": "2025-08-01 23:28:00 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_sandstone_brick_wall_from_sandstone_or_mossy_sandstone_bricks_stonecutting": {
+    "criteria": {
+      "has_sandstone_or_mossy_sandstone_bricks": "2025-08-01 23:44:23 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_shingle_slab_from_sandstone_or_sandstone_shingles_stonecutting": {
+    "criteria": {
+      "has_sandstone_or_sandstone_shingles": "2025-08-01 23:44:23 +0000"
     },
     "done": true
   },
@@ -558,15 +786,45 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/sandstone_tile_stairs_from_sandstone_or_sandstone_tiles_stonecutting": {
+    "criteria": {
+      "has_sandstone_or_sandstone_tiles": "2025-08-01 23:44:23 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/sandy_dirt": {
+    "criteria": {
+      "has_sand": "2025-08-01 23:44:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/workbench/carpenters_table": {
     "criteria": {
       "has_carpenters_table": "2025-08-01 23:18:04 +0000"
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/sandstone_tiles_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-08-01 23:44:23 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/zelkova_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-08-01 23:24:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-08-01 23:47:32 +0000"
     },
     "done": true
   },
@@ -588,6 +846,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-01 23:44:08 +0000"
+    },
+    "done": true
+  },
   "backpacked:recipes/decorations/acacia_backpack_shelf": {
     "criteria": {
       "has_stick": "2025-08-01 23:17:32 +0000"
@@ -597,6 +861,24 @@
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-08-01 23:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-08-01 23:44:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-08-01 23:41:04 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/ironwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
     },
     "done": true
   },
@@ -612,9 +894,51 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/transportation/bloom_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-01 23:44:08 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_sandstone_bricks_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-08-01 23:44:23 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/green_enchanted_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/limestone_pillar_from_limestone_bricks_stonecutting": {
     "criteria": {
       "has_limestone_bricks": "2025-08-01 23:20:10 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
     },
     "done": true
   },
@@ -624,15 +948,51 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_pillar_trim": {
     "criteria": {
       "has_spruce_pillar_trim": "2025-08-01 23:22:32 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 23:44:29 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_sandstone_wall_from_sandstone_or_cobbled_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone_or_cobbled_sandstone": "2025-08-01 23:44:23 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_sandstone_stairs_from_sandstone_or_mossy_cobbled_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone_or_mossy_cobbled_sandstone": "2025-08-01 23:44:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-01 23:44:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/workbench/glassblower": {
     "criteria": {
       "has_glassblower": "2025-08-01 23:18:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-08-01 23:44:23 +0000"
     },
     "done": true
   },
@@ -648,9 +1008,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-08-01 23:44:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-08-01 23:16:10 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-08-01 23:44:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-08-01 23:44:23 +0000"
     },
     "done": true
   },
@@ -660,9 +1044,21 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/black_sand": {
+    "criteria": {
+      "has_sand": "2025-08-01 23:44:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-08-01 23:17:32 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
     },
     "done": true
   },
@@ -672,9 +1068,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 23:44:29 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/bamboo_drawer": {
     "criteria": {
       "has_planks": "2025-08-01 23:17:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-08-01 23:44:23 +0000"
     },
     "done": true
   },
@@ -702,9 +1110,27 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/sandstone_brick_wall_from_sandstone_or_sandstone_bricks_stonecutting": {
+    "criteria": {
+      "has_sandstone_or_sandstone_bricks": "2025-08-01 23:44:23 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_sandstone_slab_from_sandstone_or_cobbled_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone_or_cobbled_sandstone": "2025-08-01 23:44:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-08-01 23:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-01 23:44:08 +0000"
     },
     "done": true
   },
@@ -714,9 +1140,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 23:44:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-08-01 23:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 23:44:29 +0000"
     },
     "done": true
   },
@@ -726,9 +1164,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-01 23:44:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-01 23:44:08 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_corner_trim": {
     "criteria": {
       "has_spruce_corner_trim": "2025-08-01 23:22:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_sandstone_wall_from_sandstone_or_mossy_cobbled_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone_or_mossy_cobbled_sandstone": "2025-08-01 23:44:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 23:44:29 +0000"
     },
     "done": true
   },
@@ -756,9 +1218,105 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 23:44:29 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_sandstone_tiles_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-08-01 23:44:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-08-01 23:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-01 23:44:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-01 23:44:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-08-01 23:44:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-08-01 23:41:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/workbench/tinkering_table": {
     "criteria": {
       "has_tinkering_table": "2025-08-01 23:18:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-08-01 23:44:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 23:44:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 23:44:29 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_brick_slab_from_sandstone_or_sandstone_bricks_stonecutting": {
+    "criteria": {
+      "has_sandstone_or_sandstone_bricks": "2025-08-01 23:44:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-08-01 23:41:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 23:44:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-01 23:44:08 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_paver_stairs_from_sandstone_or_sandstone_pavers_stonecutting": {
+    "criteria": {
+      "has_sandstone_or_sandstone_pavers": "2025-08-01 23:44:23 +0000"
     },
     "done": true
   },
@@ -774,9 +1332,51 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/spirit_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-01 23:44:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-08-01 23:44:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-08-01 23:44:23 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_pillar_trim": {
+    "criteria": {
+      "has_sandstone_pillar_trim": "2025-08-01 23:44:23 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/cika_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-08-01 23:24:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
     },
     "done": true
   },
@@ -798,6 +1398,24 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_sandstone_brick_stairs_from_sandstone_or_mossy_sandstone_bricks_stonecutting": {
+    "criteria": {
+      "has_sandstone_or_mossy_sandstone_bricks": "2025-08-01 23:44:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-01 23:47:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-08-01 23:40:40 +0000"
+    },
+    "done": true
+  },
   "backpacked:recipes/decorations/dark_oak_backpack_shelf": {
     "criteria": {
       "has_stick": "2025-08-01 23:17:32 +0000"
@@ -816,9 +1434,39 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2025-08-01 23:40:40 +0000"
+    },
+    "done": true
+  },
   "wetland_whimsy:recipes/building_blocks/limestone_brick_wall": {
     "criteria": {
       "has_limestone_bricks": "2025-08-01 23:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-08-01 23:46:54 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
     },
     "done": true
   },
@@ -828,15 +1476,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-01 23:44:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-08-01 23:20:51 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-08-01 23:44:23 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/warped_drawer": {
     "criteria": {
       "has_planks": "2025-08-01 23:17:32 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/purple_sand": {
+    "criteria": {
+      "has_sand": "2025-08-01 23:44:08 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/florus_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
     },
     "done": true
   },
@@ -864,9 +1536,33 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-01 23:47:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/workbench/loom_table": {
     "criteria": {
       "has_loom_table": "2025-08-01 23:18:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/baobab_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
     },
     "done": true
   },
@@ -894,9 +1590,21 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
+    },
+    "done": true
+  },
   "wetland_whimsy:recipes/building_blocks/bald_cypress_fence": {
     "criteria": {
       "has_bald_cypress_planks": "2025-08-01 23:18:01 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_sandstone_stairs_from_sandstone_or_cobbled_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone_or_cobbled_sandstone": "2025-08-01 23:44:23 +0000"
     },
     "done": true
   },
@@ -912,9 +1620,39 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/blue_enchanted_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_plates_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-08-01 23:44:23 +0000"
+    },
+    "done": true
+  },
   "wetland_whimsy:wetland_ruins": {
     "criteria": {
       "wetland_ruins": "2025-08-01 23:19:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_paver_wall_from_sandstone_or_sandstone_pavers_stonecutting": {
+    "criteria": {
+      "has_sandstone_or_sandstone_pavers": "2025-08-01 23:44:23 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/blue_sand": {
+    "criteria": {
+      "has_sand": "2025-08-01 23:44:08 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_plate_slab_from_sandstone_or_sandstone_plates_stonecutting": {
+    "criteria": {
+      "has_sandstone_or_sandstone_plates": "2025-08-01 23:44:23 +0000"
     },
     "done": true
   },
@@ -924,9 +1662,27 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/witch_hazel_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_nightstand": {
     "criteria": {
       "has_spruce_nightstand": "2025-08-01 23:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
     },
     "done": true
   },
@@ -954,6 +1710,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-08-01 23:47:32 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/skyris_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_pavers_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-08-01 23:44:23 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
+    },
+    "done": true
+  },
   "backpacked:recipes/decorations/jungle_backpack_shelf": {
     "criteria": {
       "has_stick": "2025-08-01 23:17:32 +0000"
@@ -963,6 +1743,12 @@
   "wetland_whimsy:recipes/building_blocks/bald_cypress_fence_gate": {
     "criteria": {
       "has_bald_cypress_planks": "2025-08-01 23:18:01 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/white_mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
     },
     "done": true
   },
@@ -996,6 +1782,18 @@
     },
     "done": true
   },
+  "vanillabackport:recipes/transportation/pale_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/rainbow_eucalyptus_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_chest": {
     "criteria": {
       "has_lots_of_items": "2025-08-01 23:20:51 +0000"
@@ -1011,6 +1809,12 @@
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-08-01 23:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-01 23:44:08 +0000"
     },
     "done": true
   },
@@ -1032,9 +1836,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-08-01 23:44:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/workbench/alchemy_bench": {
     "criteria": {
       "has_alchemy_bench": "2025-08-01 23:18:04 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/pink_sand": {
+    "criteria": {
+      "has_sand": "2025-08-01 23:44:08 +0000"
     },
     "done": true
   },
@@ -1044,9 +1860,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-01 23:44:08 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/stonecutting/spruce_log/hollow_spruce_log": {
     "criteria": {
       "has_block": "2025-08-01 23:20:51 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_sandstone_slab_from_sandstone_or_mossy_cobbled_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone_or_mossy_cobbled_sandstone": "2025-08-01 23:44:23 +0000"
     },
     "done": true
   },
@@ -1065,9 +1893,21 @@
     },
     "done": false
   },
+  "biomeswevegone:biomeswevegone/husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-01 23:47:45 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_chair": {
     "criteria": {
       "has_spruce_chair": "2025-08-01 23:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-08-01 23:44:23 +0000"
     },
     "done": true
   },
@@ -1077,11 +1917,29 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 23:44:29 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_shingle_wall_from_sandstone_or_sandstone_shingles_stonecutting": {
+    "criteria": {
+      "has_sandstone_or_sandstone_shingles": "2025-08-01 23:44:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
       "has_stick": "2025-08-01 23:17:32 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "dried_kelp": "2025-08-01 23:47:45 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
@@ -1092,6 +1950,18 @@
   "minecraft:recipes/building_blocks/limestone_brick_wall_from_limestone_bricks_stonecutting": {
     "criteria": {
       "has_limestone_bricks": "2025-08-01 23:20:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 23:44:29 +0000"
     },
     "done": true
   },
@@ -1119,6 +1989,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/birch_drawer": {
     "criteria": {
       "has_planks": "2025-08-01 23:17:32 +0000"
@@ -1128,6 +2004,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-08-01 23:18:04 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/aspen_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
     },
     "done": true
   },
@@ -1152,6 +2034,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-08-01 23:24:27 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/holly_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 23:43:31 +0000"
     },
     "done": true
   },
