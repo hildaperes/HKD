@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "f7f4075eb1de3ccb943a6e0234aedf19"
+	name: "Feriziul#f7f4075e"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		4145F5BE1E32262B: 1
+	}
+	started: {
+		4145F5BE1E32262B: 1754090171651L
+		1D4E5CDD59FFB7A0: 1754090171651L
+		2574E7CF699D5B45: 1754090171651L
+		0000000000000001: 1754090171651L
+	}
+	completed: {
+		4145F5BE1E32262B: 1754090171654L
+		2574E7CF699D5B45: 1754090171654L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}
