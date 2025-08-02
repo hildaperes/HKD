@@ -816,6 +816,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "kelp": "2025-08-02 00:03:08 +0000"
+    },
+    "done": false
+  },
   "handcrafted:recipes/misc/silverfish_trophy": {
     "criteria": {
       "has_silverfish_trophy": "2025-08-01 23:18:01 +0000"
@@ -1636,6 +1642,12 @@
   "minecraft:recipes/misc/workbench/mason_table": {
     "criteria": {
       "has_mason_table": "2025-08-01 23:18:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-08-02 00:03:18 +0000"
     },
     "done": true
   },
