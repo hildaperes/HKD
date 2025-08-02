@@ -1679,3 +1679,40 @@
 [02Aug2025 00:56:35.531] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 137 chunks for dimension 'overworld' took 1 milliseconds
 [02Aug2025 00:57:58.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Feriziul has made the advancement [What a Deal!]
 [02Aug2025 00:57:58.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Feriziul has made the advancement [First Trade]
+[02Aug2025 01:01:35.520] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 137 chunks for dimension 'overworld' took 2 milliseconds
+[02Aug2025 01:04:08.097] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Feriziul lost connection: Disconnected
+[02Aug2025 01:04:08.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Feriziul left the game
+[02Aug2025 01:04:08.100] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f7f4075e-b1de-3ccb-943a-6e0234aedf19
+[02Aug2025 01:04:27.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[02Aug2025 01:04:27.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Aug2025 01:04:27.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Aug2025 01:04:27.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Aug2025 01:04:27.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Aug2025 01:04:27.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[02Aug2025 01:04:27.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[02Aug2025 01:04:27.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Aug2025 01:04:27.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Aug2025 01:04:27.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[02Aug2025 01:04:27.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Aug2025 01:04:27.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[02Aug2025 01:04:27.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[02Aug2025 01:04:27.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Aug2025 01:04:27.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Aug2025 01:04:27.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[02Aug2025 01:04:27.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02Aug2025 01:04:27.839] [Server thread/INFO] [Chunk Activity Tracker/]: Server stopping, clearing chunk activity tracking map.
+[02Aug2025 01:04:27.841] [Server thread/INFO] [Framework/]: Unloading server configs...
+[02Aug2025 01:04:27.842] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked.server.toml
+[02Aug2025 01:04:27.843] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[02Aug2025 01:04:27.843] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[02Aug2025 01:04:27.845] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[02Aug2025 01:04:27.847] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
+[02Aug2025 01:04:27.848] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config easyanvils-server.toml
+[02Aug2025 01:04:27.849] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config leavesbegone-server.toml
+[02Aug2025 01:04:27.849] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config netherchested-server.toml
+[02Aug2025 01:04:27.850] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config illagerinvasion-server.toml
+[02Aug2025 01:04:27.851] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config tradingpost-server.toml
+[02Aug2025 01:04:27.851] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config easymagic-server.toml
+[02Aug2025 01:04:27.852] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config skeletonaifix-server.toml
+[02Aug2025 01:04:27.852] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config magnumtorch-server.toml
+[02Aug2025 01:04:27.853] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config barteringstation-server.toml
