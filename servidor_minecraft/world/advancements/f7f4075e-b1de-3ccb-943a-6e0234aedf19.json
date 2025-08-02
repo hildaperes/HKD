@@ -372,6 +372,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_nightstand": {
+    "criteria": {
+      "has_oak_nightstand": "2025-08-02 00:27:22 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_pendant": {
     "criteria": {
       "has_iron_ingot": "2025-08-02 00:10:17 +0000"
@@ -399,6 +405,12 @@
   "mynethersdelight:recipes/building_blocks/crafting/letios_compost_from_bone_alt": {
     "criteria": {
       "has_bone_meal": "2025-08-01 23:50:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/packed_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-08-02 00:20:20 +0000"
     },
     "done": true
   },
@@ -438,9 +450,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-08-02 00:27:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-01 23:44:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_barrel": {
+    "criteria": {
+      "has_slabs": "2025-08-02 00:27:45 +0000"
     },
     "done": true
   },
@@ -495,6 +519,12 @@
   "twilightforest:recipes/transportation/sorting_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-01 23:43:31 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_chair": {
+    "criteria": {
+      "has_planks": "2025-08-02 00:27:22 +0000"
     },
     "done": true
   },
@@ -579,6 +609,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-01 23:44:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_fancy_bed": {
+    "criteria": {
+      "has_oak_fancy_bed": "2025-08-02 00:27:22 +0000"
     },
     "done": true
   },
@@ -696,6 +732,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_table": {
+    "criteria": {
+      "has_oak_table": "2025-08-02 00:27:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-01 23:43:31 +0000"
@@ -717,6 +759,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-08-01 23:24:48 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_corner_trim": {
+    "criteria": {
+      "has_oak_corner_trim": "2025-08-02 00:27:22 +0000"
     },
     "done": true
   },
@@ -828,6 +876,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_drawer": {
+    "criteria": {
+      "has_oak_drawer": "2025-08-02 00:27:22 +0000"
+    },
+    "done": true
+  },
   "backpacked:recipes/decorations/spruce_backpack_shelf": {
     "criteria": {
       "has_stick": "2025-08-01 23:17:32 +0000"
@@ -918,9 +972,21 @@
     },
     "done": true
   },
+  "aether:recipes/combat/shield_repairing": {
+    "criteria": {
+      "has_shield": "2025-08-02 00:18:43 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_sandstone_brick_wall_from_sandstone_or_mossy_sandstone_bricks_stonecutting": {
     "criteria": {
       "has_sandstone_or_mossy_sandstone_bricks": "2025-08-01 23:44:23 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_shutter": {
+    "criteria": {
+      "has_slab": "2025-08-02 00:27:45 +0000"
     },
     "done": true
   },
@@ -993,6 +1059,12 @@
   "another_furniture:recipes/acacia_drawer": {
     "criteria": {
       "has_planks": "2025-08-01 23:17:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_shelf": {
+    "criteria": {
+      "has_oak_shelf": "2025-08-02 00:27:22 +0000"
     },
     "done": true
   },
@@ -1083,6 +1155,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-01 23:44:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-08-02 00:27:22 +0000"
     },
     "done": true
   },
@@ -1212,9 +1290,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_dining_bench": {
+    "criteria": {
+      "has_oak_dining_bench": "2025-08-02 00:27:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-08-01 23:44:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-02 00:27:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_desk": {
+    "criteria": {
+      "has_oak_desk": "2025-08-02 00:27:22 +0000"
     },
     "done": true
   },
@@ -1257,6 +1353,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-08-01 23:44:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-08-02 00:27:22 +0000"
     },
     "done": true
   },
@@ -1323,6 +1425,12 @@
   "stoneworks:recipes/building_blocks/cobbled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-08-01 23:44:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-08-02 00:20:20 +0000"
     },
     "done": true
   },
@@ -1452,6 +1560,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/oak_bench": {
+    "criteria": {
+      "has_slab": "2025-08-02 00:27:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-08-02 00:11:36 +0000"
@@ -1482,9 +1596,21 @@
     },
     "done": true
   },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-08-02 00:28:05 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/blaze_trophy": {
     "criteria": {
       "has_blaze_trophy": "2025-08-01 23:18:01 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_counter": {
+    "criteria": {
+      "has_oak_counter": "2025-08-02 00:27:22 +0000"
     },
     "done": true
   },
@@ -1608,6 +1734,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-08-02 00:27:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2025-08-02 00:10:27 +0000"
@@ -1617,6 +1749,12 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-08-02 00:09:55 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_flower_box": {
+    "criteria": {
+      "has_slab": "2025-08-02 00:27:45 +0000"
     },
     "done": true
   },
@@ -1635,6 +1773,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-08-02 00:10:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-02 00:27:22 +0000"
     },
     "done": true
   },
@@ -1813,6 +1957,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/blue_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-08-02 00:20:20 +0000"
+    },
+    "done": true
+  },
   "backpacked:recipes/decorations/dark_oak_backpack_shelf": {
     "criteria": {
       "has_stick": "2025-08-01 23:17:32 +0000"
@@ -1834,6 +1984,18 @@
   "backpacked:recipes/decorations/birch_backpack_shelf": {
     "criteria": {
       "has_stick": "2025-08-01 23:17:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/oak_banister": {
+    "criteria": {
+      "has_item": "2025-08-02 00:27:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-08-02 00:27:45 +0000"
     },
     "done": true
   },
@@ -1885,6 +2047,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-02 00:27:22 +0000"
+    },
+    "done": true
+  },
   "wetland_whimsy:recipes/building_blocks/bald_cypress_trapdoor": {
     "criteria": {
       "has_bald_cypress_planks": "2025-08-01 23:18:01 +0000"
@@ -1897,9 +2065,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_bench": {
+    "criteria": {
+      "has_oak_bench": "2025-08-02 00:27:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-08-02 00:10:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-08-02 00:27:22 +0000"
     },
     "done": true
   },
@@ -1918,6 +2098,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-08-01 23:44:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/ice_from_bucket_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-08-02 00:20:20 +0000"
     },
     "done": true
   },
@@ -2035,9 +2221,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_couch": {
+    "criteria": {
+      "has_oak_couch": "2025-08-02 00:27:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2025-08-02 00:10:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-08-02 00:27:22 +0000"
     },
     "done": true
   },
@@ -2077,6 +2275,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_pillar_trim": {
+    "criteria": {
+      "has_oak_pillar_trim": "2025-08-02 00:27:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-08-02 00:10:17 +0000"
@@ -2092,6 +2296,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-08-01 23:48:46 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_chair": {
+    "criteria": {
+      "has_oak_chair": "2025-08-02 00:27:22 +0000"
     },
     "done": true
   },
@@ -2245,6 +2455,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/oak_shelf": {
+    "criteria": {
+      "has_planks": "2025-08-02 00:27:22 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/skyris_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-01 23:43:31 +0000"
@@ -2317,6 +2533,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-02 00:27:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-08-01 23:24:27 +0000"
@@ -2338,6 +2560,12 @@
   "aether:recipes/decorations/skyroot_chest": {
     "criteria": {
       "has_lots_of_items": "2025-08-01 23:20:51 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_table": {
+    "criteria": {
+      "has_planks": "2025-08-02 00:27:22 +0000"
     },
     "done": true
   },
@@ -2374,6 +2602,12 @@
   "backpacked:recipes/decorations/warped_backpack_shelf": {
     "criteria": {
       "has_stick": "2025-08-01 23:17:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_cupboard": {
+    "criteria": {
+      "has_oak_cupboard": "2025-08-02 00:27:22 +0000"
     },
     "done": true
   },
@@ -2419,6 +2653,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_side_table": {
+    "criteria": {
+      "has_oak_side_table": "2025-08-02 00:27:22 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/stonecutting/spruce_log/hollow_spruce_log": {
     "criteria": {
       "has_block": "2025-08-01 23:20:51 +0000"
@@ -2453,7 +2693,9 @@
     "criteria": {
       "minecraft:cold_ocean": "2025-08-01 23:26:53 +0000",
       "minecraft:beach": "2025-08-01 23:26:40 +0000",
+      "minecraft:forest": "2025-08-02 00:24:24 +0000",
       "minecraft:taiga": "2025-08-01 23:20:47 +0000",
+      "minecraft:ocean": "2025-08-02 00:24:05 +0000",
       "minecraft:swamp": "2025-08-01 23:22:16 +0000"
     },
     "done": false
@@ -2509,6 +2751,12 @@
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
       "has_stick": "2025-08-01 23:17:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2025-08-02 00:27:45 +0000"
     },
     "done": true
   },
@@ -2594,6 +2842,12 @@
   "another_furniture:recipes/birch_drawer": {
     "criteria": {
       "has_planks": "2025-08-01 23:17:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2025-08-02 00:27:45 +0000"
     },
     "done": true
   },
