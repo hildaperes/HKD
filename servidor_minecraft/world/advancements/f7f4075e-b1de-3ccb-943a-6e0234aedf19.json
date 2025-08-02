@@ -372,6 +372,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-08-01 23:49:58 +0000"
+    },
+    "done": true
+  },
   "wetland_whimsy:recipes/building_blocks/bald_cypress_slab": {
     "criteria": {
       "has_bald_cypress_planks": "2025-08-01 23:18:01 +0000"
@@ -381,6 +387,12 @@
   "stoneworks:recipes/building_blocks/sandstone_pillar_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-08-01 23:44:23 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/crafting/letios_compost_from_bone_alt": {
+    "criteria": {
+      "has_bone_meal": "2025-08-01 23:50:14 +0000"
     },
     "done": true
   },
@@ -438,6 +450,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-08-01 23:51:04 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/palm_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-01 23:43:31 +0000"
@@ -453,6 +471,12 @@
   "twilightforest:recipes/transportation/sorting_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-01 23:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-08-01 23:50:14 +0000"
     },
     "done": true
   },
@@ -525,6 +549,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-01 23:44:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/stone_pickaxe_repairing": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-08-01 23:48:46 +0000"
     },
     "done": true
   },
@@ -699,6 +729,12 @@
   "backpacked:recipes/decorations/spruce_backpack_shelf": {
     "criteria": {
       "has_stick": "2025-08-01 23:17:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-01 23:51:04 +0000"
     },
     "done": true
   },
@@ -1020,6 +1056,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-08-01 23:49:58 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/dark_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-01 23:43:31 +0000"
@@ -1218,9 +1260,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-08-01 23:50:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-08-01 23:44:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-01 23:50:14 +0000"
     },
     "done": true
   },
@@ -1263,6 +1317,12 @@
   "minecraft:recipes/misc/workbench/tinkering_table": {
     "criteria": {
       "has_tinkering_table": "2025-08-01 23:18:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-01 23:49:58 +0000"
     },
     "done": true
   },
@@ -1382,6 +1442,7 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "smoker": "2025-08-01 23:48:56 +0000",
       "brewingstand": "2025-08-01 23:25:00 +0000"
     },
     "done": false
@@ -1425,6 +1486,12 @@
   "wetland_whimsy:recipes/misc/bald_cypress_boat": {
     "criteria": {
       "has_bald_cypress_planks": "2025-08-01 23:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-08-01 23:49:58 +0000"
     },
     "done": true
   },
@@ -1620,6 +1687,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-08-01 23:48:46 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/blue_enchanted_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-01 23:43:31 +0000"
@@ -1698,6 +1771,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-08-01 23:49:58 +0000"
+    },
+    "done": true
+  },
   "wetland_whimsy:recipes/redstone/bald_cypress_pressure_plate": {
     "criteria": {
       "has_bald_cypress_planks": "2025-08-01 23:18:01 +0000"
@@ -1767,6 +1846,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-08-01 23:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-08-01 23:48:46 +0000"
     },
     "done": true
   },
@@ -1854,6 +1939,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-08-01 23:51:04 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_fancy_bed": {
     "criteria": {
       "has_spruce_fancy_bed": "2025-08-01 23:22:32 +0000"
@@ -1899,6 +1990,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/stone_axe_repairing": {
+    "criteria": {
+      "has_stone_axe": "2025-08-01 23:49:09 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_chair": {
     "criteria": {
       "has_spruce_chair": "2025-08-01 23:22:32 +0000"
@@ -1937,9 +2034,16 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "dried_kelp": "2025-08-01 23:47:45 +0000"
+      "dried_kelp": "2025-08-01 23:47:45 +0000",
+      "cooked_salmon": "2025-08-01 23:50:29 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-08-01 23:51:04 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
